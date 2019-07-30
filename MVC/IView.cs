@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LearnCSharp.MVCTest
+namespace MVC
 {
     // currently the interface only contains the method to set the controller to which
     // it is tied. The rest of the view related code is implemented in the form

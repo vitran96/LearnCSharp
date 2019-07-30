@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LearnCSharp.MVCTest
+namespace MVC
 {
     // model interface where we can attach the function to be notified when value
     // is changed. An actual data manipulation function increment which increments the value

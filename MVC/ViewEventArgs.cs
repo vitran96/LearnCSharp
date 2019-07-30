@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LearnCSharp.MVCTest
+namespace MVC
 {
     // WTF is this shit?
     public delegate void ViewHandler<IView>(IView sender, ViewEventArgs e);

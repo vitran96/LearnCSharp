@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LearnCSharp.MVCTest
+namespace MVC
 {
     public delegate void ModelHandler<IModel>(IModel sender, ModelEventArgs e);
     // the model event args class which is derived from the event args class to
